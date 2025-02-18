@@ -15,9 +15,7 @@ Went from broke and clueless to building my own products. Learned to code, freel
 * ⚡  I can't live without The Witcher 3 game, La La Land movie and nutella toasts with milk!
 
 <a href="https://www.github.com/lite1pal" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/lite1pal?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.x.com/lite_pal" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/lite_pal?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
-/></a>
+src="https://img.shields.io/github/followers/lite1pal?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
 ### Skills
 
