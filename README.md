@@ -8,7 +8,7 @@ Went from broke and clueless to building my own products. Learned to code, freel
 
 * 🌍  I'm based in Ukraine
 * 🖥️  See my portfolio at [denistarasenko.com](http://denistarasenko.com)
-* ✉️  You can contact me at [https://x.com/lite\_pal](mailto:https://x.com/lite_pal)
+* ✉️  You can contact me at [https://x.com/lite\_pal](https://x.com/lite_pal)
 * 🚀  I'm currently working on [nextnative.dev](http://nextnative.dev)
 * 🧠  I'm learning OpenAI's API
 * 🤝  I'm open to collaborating on cool projects and any type of web design
