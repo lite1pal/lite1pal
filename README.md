@@ -8,8 +8,8 @@ Went from broke and clueless to building my own products. Learned to code, freel
 
 * 🌍  I'm based in Ukraine
 * 🖥️  See my portfolio at [denistarasenko.com](http://denistarasenko.com)
-* ✉️  You can contact me at [https://x.com/lite\_pal](https://x.com/shipwithdenis)
-* 🚀  I'm currently working on [nextnative.dev](http://nextnative.dev)
+* ✉️  You can contact me at [x.com/shipwithdenis](https://x.com/shipwithdenis)
+* 🚀  I'm currently working on [nextnative.dev](https://nextnative.dev)
 * 🧠  I'm learning OpenAI's API
 * 🤝  I'm open to collaborating on cool projects and any type of web design
 * ⚡  I can't live without The Witcher 3 game, La La Land movie and nutella toasts with milk!
