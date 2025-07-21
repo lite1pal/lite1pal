@@ -12,7 +12,7 @@ Went from broke and clueless to building my own products. Learned to code, freel
 * 🚀  I'm currently working on [nextnative.dev](https://nextnative.dev)
 * 🧠  I'm learning OpenAI's API
 * 🤝  I'm open to collaborating on cool projects and any type of web design
-* ⚡  I can't live without The Witcher 3 game, La La Land movie and nutella toasts with milk!
+* ⚡  I can't live without The Witcher 3 game, La La Land movie, and nutella toasts with milk!
 
 <a href="https://www.github.com/lite1pal" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/lite1pal?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
