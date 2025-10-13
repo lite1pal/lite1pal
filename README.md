@@ -6,7 +6,7 @@ Developer, designer and indie hacker
 
 Went from broke and clueless to building my own products. Learned to code, freelanced, and now I’m creating apps to break free from the time-for-money grind. Just getting started! Sharing my struggles and wins in making & launching products on X.
 
-* 🌍  I'm based in Poland
+* 🌍  I'm based in Czech Republic
 * 🖥️  See my portfolio at [denistarasenko.com](http://denistarasenko.com)
 * ✉️  You can contact me at [x.com/shipwithdenis](https://x.com/shipwithdenis)
 * 🚀  I'm currently working on [nextnative.dev](https://nextnative.dev)
