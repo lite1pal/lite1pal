@@ -10,8 +10,7 @@ Went from broke and clueless to building my own products. Learned to code, freel
 * 🖥️  See my portfolio at [denistarasenko.com](http://denistarasenko.com)
 * ✉️  You can contact me at [x.com/shipwithdenis](https://x.com/shipwithdenis)
 * 🚀  I'm currently working on [nextnative.dev](https://nextnative.dev)
-* 🧠  I'm learning OpenAI's API
-* 🤝  I'm open to collaborating on cool projects and any type of web design
+* 🤝  I'm open to collaborating on interesting projects
 * ⚡  I can't live without The Witcher 3 game, La La Land movie, and nutella toasts with milk!
 
 <a href="https://www.github.com/lite1pal" target="_blank" rel="noreferrer"><img
