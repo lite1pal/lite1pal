@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Developer, designer and indie hacker
 ------------------------------------
 
-Went from broke and clueless to building my own products. Learned to code, freelanced, and now I’m creating apps. Just getting started! Sharing my struggles and wins in making & launching products on X.
+Building tools for devs and mobile apps for everyone.
 
 * 🌍  I'm based in Czech Republic
 * 🖥️  See my portfolio at [denistarasenko.com](http://denistarasenko.com)
