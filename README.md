@@ -9,9 +9,6 @@ I build software for devs and mobile apps for everyone.
 * 🤝  I'm open to collaborating on interesting projects
 * ⚡  I can't live without The Witcher 3 game, La La Land movie, and nutella toasts with milk!
 
-<a href="https://www.github.com/lite1pal" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/lite1pal?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
-
 ### Skills
 
 
