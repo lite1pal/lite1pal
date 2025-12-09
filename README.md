@@ -1,14 +1,14 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Denis!
 ==============================================================================================================================
 
-Developer, designer and indie hacker
+Developer, designer and writer
 ------------------------------------
 
-Building tools for devs and mobile apps for everyone.
+I build software for devs and mobile apps for everyone.
 
-* 🌍  I'm based in Czech Republic
+* 🌍  I live in Czech Republic
 * 🖥️  See my portfolio at [denistarasenko.com](http://denistarasenko.com)
-* ✉️  You can contact me at [x.com/shipwithdenis](https://x.com/shipwithdenis)
+* ✉️  You can contact me at [denistarasenko@nextnative.dev](mailto:denistarasenko@nextnative.dev)
 * 🚀  I'm currently working on [nextnative.dev](https://nextnative.dev)
 * 🤝  I'm open to collaborating on interesting projects
 * ⚡  I can't live without The Witcher 3 game, La La Land movie, and nutella toasts with milk!
