@@ -3,7 +3,7 @@ I'm a developer, designer and writer.
 I build software for devs and mobile apps for everyone.
 
 * 🌍  I live in Czech Republic
-* 🖥️  See my portfolio at [denistarasenko.com](http://denistarasenko.com)
+* 🖥️  You can see my work [denistarasenko.com](http://denistarasenko.com)
 * ✉️  You can contact me at [denistarasenko@nextnative.dev](mailto:denistarasenko@nextnative.dev)
 * 🚀  I'm currently working on [nextnative.dev](https://nextnative.dev)
 * 🤝  I'm open to collaborating on interesting projects
