@@ -7,7 +7,6 @@ I build software for devs and mobile apps for everyone.
 * ✉️  You can contact me at [denistarasenko@nextnative.dev](mailto:denistarasenko@nextnative.dev)
 * 🚀  I'm currently working on [nextnative.dev](https://nextnative.dev)
 * 🤝  I'm open to collaborating on interesting projects
-* ⚡  I can't live without The Witcher 3 game, La La Land movie, and nutella toasts with milk!
 
 ### Skills
 
