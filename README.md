@@ -1,4 +1,4 @@
-I'm a developer, designer and writer.
+## I'm a developer, designer and writer.
 
 I build software for devs and mobile apps for everyone.
 
