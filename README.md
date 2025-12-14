@@ -8,11 +8,13 @@
 
 I build software for devs and mobile apps for everyone.
 
-* 🌍  I live in Czech Republic
-* 🖥️  You can see my work at [denistarasenko.com](http://denistarasenko.com)
-* ✉️  You can contact me at [denistarasenko@nextnative.dev](mailto:denistarasenko@nextnative.dev)
-* 🚀  I'm currently working on [nextnative.dev](https://nextnative.dev)
-* 🤝  I'm open to collaborating on interesting projects
+Also I recently realized that you always get a better result when you remove things.
+
+Not add them.
+<br /><br /><br />
+💚 My product - [nextnative.dev](https://nextnative.dev)
+
+✍️ My hub - [denistarasenko.com](https://denistarasenko.com/essays)
 
 ### Skills
 
