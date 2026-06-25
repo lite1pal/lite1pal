@@ -1,16 +1,8 @@
-<div align="center">
-  <a href="https://nextnative.dev">
-    <img src="https://nextnative.dev/nextnative-logo.png" width="300" alt="NextNative logo">
-  </a>
-</div>
+## Hi, I'm Denis 👋
 
-## I'm a developer, designer and writer.
+Full-Stack TypeScript Engineer building AI-powered SaaS products, developer tools, and mobile apps.
 
-I build software for devs and mobile apps for everyone.
-
-Also I recently realized that you always get a better result when you remove things.
-
-Not add them.
+Founder of NextNative, a platform used by 80+ businesses to turn Next.js apps into native iOS and Android apps.
 <br /><br /><br />
 💚 My product - [nextnative.dev](https://nextnative.dev)
 
